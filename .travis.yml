@@ -8,6 +8,13 @@ r_packages:
 - leafletR
 r_github_packages: rladies/meetupr
 
+script:
+- dos2unix ${TRAVIS_BUILD_DIR}/scripts/*
+addons:
+  apt:
+    packages:
+    - dos2unix
+    
 after_success:
 - test $TRAVIS_BRANCH == "master" && bash deploy.sh
 
