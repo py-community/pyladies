@@ -1,0 +1,12 @@
+language: r
+warnings_are_errors: false
+cache: packages
+sudo: false
+r_packages:
+- curl
+- jsonlite
+- leafletR
+r_github_packages: rladies/meetupr
+after_success:
+- test $TRAVIS_PULL_REQUEST == "false" && test $TRAVIS_BRANCH == "master" && bash
+  deploy.sh
