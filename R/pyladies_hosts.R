@@ -2,6 +2,7 @@ library(httr)
 library(jsonlite)
 
 # Wrapper for messages, spotted in googlesheets3
+# from internals.R of meetupr package
 spf <- function(...) stop(sprintf(...), call. = FALSE)
 
 .quick_fetch <- function(api_url,
