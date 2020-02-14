@@ -10,3 +10,8 @@ r_github_packages: rladies/meetupr
 after_success:
 - test $TRAVIS_PULL_REQUEST == "false" && test $TRAVIS_BRANCH == "master" && bash
   deploy.sh
+env:
+  global:
+    secure: kTLye0ojeE1WxSTon2T/wGQFKf33tAKN9DwJJpyoaHSJMzz3//RKTTzSeAtBO2hm1P1f0weU5K9r8ApUG2+cMGfnGdjLoigSrf4Zdq3apx2J5Ca0aKOF8mcsGCDZqsFhOHzBt/9JAr0XRtclpr4Il2qPJ6SFLVaMkX8628TYWxDkacWrIz1SyHsRD9HZ2CX7u7tZ9HKd0ubtPj2ZJ5xTqqc3cFUIUTU5IHLAzAECVkOVtlzWwalZdGzzQ9Iw8prVHCR3eZE0Nd1bUttkrNPrGNlIzsqx2QlYnhCn+2Q+jkSyUV51fBm0NYru09tKBFcFD8bjSBXcffWCf7TXGsyEpb/Df4D/l6gB4GZdx+6Z3PB3VdZT0qJ7a2Xu2KFSnGBhuUVc8hyLmoobFfr1dOh8xzu+2SzN2jzpOvKNyfTuiAq6zZRLuShFWox5CGYcF9SUXfAQCd9WPn68KJwTcRT8cPcCQaWjAjNGTmW5rn0IzQ2dhDABSrVy0Q7iHXmuDxZxTXzZEbL83AXAmoTVyqDmK/OFpwGKep3YLQ4yDsYKRMGhEjfKNitDXTLWo7vxRq3yqEkNZo28L1AfKrTMxLBWWnvDgCkq+eaDkR0HMz/0LoLGi7Ox71x7Sp/TzkrGNsW1SaC4fp4PooEvRJPkmClRbvyxfRp1AkHVTBsrhBzLfEE=
+before_install:
+  - openssl aes-256-cbc -k "$super_secret_password" -in R/meetup_token.rds.enc -out meetup_token.rds -d
