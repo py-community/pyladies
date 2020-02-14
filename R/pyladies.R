@@ -4,7 +4,7 @@ library(jsonlite)
 
 # Wrapper for messages, spotted in googlesheets3
 spf <- function(...) stop(sprintf(...), call. = FALSE)
-#internals.R from pyladies/meetupr package
+#internals.R from rladies/meetupr package
 # This helper function makes a single call, given the full API endpoint URL
 # Used as the workhorse function inside .fetch_results() below
 .quick_fetch <- function(api_url,
