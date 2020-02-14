@@ -377,7 +377,7 @@ meetup_auth <- function(token = NULL,
     meetup_deauth(clear_cache = TRUE, verbose = verbose)
   }
   
-  token = readRDS("R/meetup_token.rds")
+  token = readRDS("meetup_token.rds")
   
   if (is.null(token)) {
     
