@@ -3,6 +3,7 @@ set -o errexit -o nounset
 BASE_REPO=$PWD
 
 setup_git() {
+  
 Rscript -e 'source("R/pyladies.R")'
 Rscript -e 'source("R/pyladies_hosts.R")'
 
@@ -31,7 +32,7 @@ upload_files() {
   # Remove existing "origin"
   git remote rm origin
   # Add new "origin" with access token in the git URL for authentication
-  git remote add origin https://${GITHUB_PAT}@github.com/${TRAVIS_REPO_SLUG}.git > /dev/null 2>&1
+  git remote add origin https://${GITTOKEN}@github.com/${TRAVIS_REPO_SLUG}.git > /dev/null 2>&1
   git push origin master --quiet
 }
 
