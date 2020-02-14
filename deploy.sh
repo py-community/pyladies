@@ -1,6 +1,6 @@
 #!/bin/bash
-set -o errexit -o nounset
-BASE_REPO=$PWD
+#set -o errexit -o nounset
+#BASE_REPO=$PWD
 
 setup_git() {
 Rscript -e 'source("R/pyladies.R")'
@@ -36,3 +36,7 @@ upload_files() {
 }
 
 setup_git
+
+commit_files
+
+upload_files
