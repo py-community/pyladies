@@ -1,6 +1,5 @@
 #!/bin/bash
-# set -o errexit -o nounset
-# BASE_REPO=$PWD
+set -o errexit -o nounset
 setup_git() {
 Rscript -e 'source("R/pyladies.R")'
 Rscript -e 'source("R/pyladies_hosts.R")'
