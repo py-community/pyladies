@@ -9,7 +9,7 @@ r_packages:
 r_github_packages: rladies/meetupr
 
 script:
-- dos2unix ${TRAVIS_BUILD_DIR}/scripts/*
+- dos2unix ${TRAVIS_BUILD_DIR}/deploy.sh
 addons:
   apt:
     packages:
