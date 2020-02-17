@@ -166,6 +166,17 @@ get_pyladies <- function() {
   pyladies_groups$upcoming_events <- upcoming_event_counts
   pyladies_groups$last_event <- last_event
   pyladies_groups$days_since_last_event <- days_since_last_event
+  
+  pyladies_groups$activity <- days_since_last_event
+  
+  pyladies_groups$activity[which(as.integer(pyladies_groups$past_events) >=0 & as.integer(pyladies_groups$activity) <= 180 | as.integer(pyladies_groups$upcoming_events) > 0)] = "Active"
+  #pyladies_groups$days_since_last_event[which(as.integer(pyladies_groups$past_events) > 0 & as.integer(pyladies_groups$days_since_last_event) > 180 & as.integer(pyladies_groups$upcoming_events) == 0 )] = "Inactive"
+  pyladies_groups$activity[which(as.integer(pyladies_groups$past_events) == 0 & as.integer(pyladies_groups$upcoming_events) == 0)] = "Unbegun"
+  pyladies_groups$activity[which(pyladies_groups$activity != "Unbegun" & pyladies_groups$activity != "Active")] = "Inactive"
+  
+  
+  pyladies_groups$status <- pyladies_groups$activity
+  
   pyladies_groups[grepl("America",pyladies_groups$timezone),]$timezone <- "Latin America"
   pyladies_groups[grepl("US|Canada",pyladies_groups$timezone),]$timezone <- "US/Canada"
   pyladies_groups[grepl("Europe",pyladies_groups$timezone),]$timezone <- "Europe"
@@ -225,7 +236,7 @@ get_pyladies <- function() {
                            avgevent = average_event_chapter, avgmember = average_member_chapter)
   
   # specify columns to retain
-  col_to_keep <- c("name", "city", "country",  "region", "members", "fullurl", "created", "past_events", "upcoming_events")
+  col_to_keep <- c("name", "city", "country",  "region", "members", "fullurl", "created", "status", "last_event", "past_events", "upcoming_events")
   pyladies_groups2 <- pyladies_groups[col_to_keep]
   write.csv(pyladies_groups2, "docs/data/pyladies.csv")   
   
