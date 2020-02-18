@@ -173,7 +173,7 @@ get_pyladies <- function() {
   #pyladies_groups$days_since_last_event[which(as.integer(pyladies_groups$past_events) > 0 & as.integer(pyladies_groups$days_since_last_event) > 180 & as.integer(pyladies_groups$upcoming_events) == 0 )] = "Inactive"
   pyladies_groups$activity[which(as.integer(pyladies_groups$past_events) == 0 & as.integer(pyladies_groups$upcoming_events) == 0)] = "Unbegun"
   pyladies_groups$activity[which(pyladies_groups$activity != "Unbegun" & pyladies_groups$activity != "Active")] = "Inactive"
-  
+  pyladies_groups$last_event[which(pyladies_groups$last_event == "1970-01-01")] = NA
   
   pyladies_groups$status <- pyladies_groups$activity
   
