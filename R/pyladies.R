@@ -186,6 +186,8 @@ get_pyladies <- function() {
   
   colnames(pyladies_groups)[colnames(pyladies_groups) == 'timezone'] <- 'region'
   
+  #possible mistake from meetup. Madagascar is assigned to India instead of Africa
+  pyladies_groups[grepl("Madagascar",pyladies_groups$country),]$region<- "Africa"
   
   # obtain cumulative count of chapters over the years and save in JSON
   datecreated <- sort(as.Date(pyladies_groups$created))
