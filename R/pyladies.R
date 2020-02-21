@@ -191,6 +191,7 @@ get_pyladies <- function() {
   
   # the validity of chapters are not yet certain, so we remove them
   pyladies_groups <- pyladies_groups[!grepl("pyladies-puc-rio|pyladies-bogota|pyladies-duque-de-caxias-meetup", tolower(pyladies_groups$urlname)),]
+  pyladies_groups <- pyladies_groups[!grepl("https://www.meetup.com/pyLadies-bangalore/", tolower(pyladies_groups$fullurl)),]
 
   # obtain cumulative count of chapters over the years and save in JSON
   datecreated <- sort(as.Date(pyladies_groups$created))
