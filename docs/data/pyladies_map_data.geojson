@@ -1092,23 +1092,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "PyLadies Bangalore",
-        "url": "<a href='https://www.meetup.com/PyLadies-Bangalore/'>PyLadies Bangalore</a>",
-        "created": "2016-04-05",
-        "members": "616",
-        "past_events": "9",
-        "upcoming_events": "0",
-        "last_event": "2017-10-15",
-        "days_since_last_event": "859"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [77.56,12.97]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "PyLadies RDU",
         "url": "<a href='https://www.meetup.com/pyladies-rdu/'>PyLadies RDU</a>",
         "created": "2014-09-03",
