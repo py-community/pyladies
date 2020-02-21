@@ -857,7 +857,7 @@
         "name": "PyLadies Munich",
         "url": "<a href='https://www.meetup.com/PyLadiesMunich/'>PyLadies Munich</a>",
         "created": "2014-11-20",
-        "members": "572",
+        "members": "573",
         "past_events": "20",
         "upcoming_events": "1",
         "last_event": "2020-01-23",
@@ -917,23 +917,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [-111.86,40.73]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Pyladies Bogotá",
-        "url": "<a href='https://www.meetup.com/Pyladies-Bogota/'>Pyladies Bogotá</a>",
-        "created": "2016-10-30",
-        "members": "102",
-        "past_events": "0",
-        "upcoming_events": "0",
-        "last_event": "NA",
-        "days_since_last_event": "18313"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.09,4.63]
       }
     },
     {
@@ -1041,23 +1024,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "PyLadies PUC-Rio",
-        "url": "<a href='https://www.meetup.com/PyLadies-PUC-Rio/'>PyLadies PUC-Rio</a>",
-        "created": "2016-08-28",
-        "members": "50",
-        "past_events": "1",
-        "upcoming_events": "0",
-        "last_event": "2016-10-22",
-        "days_since_last_event": "1217"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-43.2,-22.91]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "PyLadies Pune",
         "url": "<a href='https://www.meetup.com/PyLadies-Pune/'>PyLadies Pune</a>",
         "created": "2014-10-09",
@@ -1146,7 +1112,7 @@
         "name": "PyLadies RDU",
         "url": "<a href='https://www.meetup.com/pyladies-rdu/'>PyLadies RDU</a>",
         "created": "2014-09-03",
-        "members": "445",
+        "members": "444",
         "past_events": "47",
         "upcoming_events": "1",
         "last_event": "2019-10-13",
@@ -1240,23 +1206,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [28.96,41.01]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "PyLadies Duque de Caxias Meetup",
-        "url": "<a href='https://www.meetup.com/PyLadies-Duque-de-Caxias-Meetup/'>PyLadies Duque de Caxias Meetup</a>",
-        "created": "2016-01-02",
-        "members": "37",
-        "past_events": "0",
-        "upcoming_events": "0",
-        "last_event": "NA",
-        "days_since_last_event": "18313"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-43.31,-22.77]
       }
     },
     {
