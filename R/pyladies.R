@@ -189,6 +189,9 @@ get_pyladies <- function() {
   #possible mistake from meetup. Madagascar is assigned to India instead of Africa
   pyladies_groups[grepl("Madagascar",pyladies_groups$country),]$region<- "Africa"
   
+  # the validity of chapters are not yet certain, so we remove them
+  pyladies_groups <- pyladies_groups[!grepl("pyladies-puc-rio|pyladies-bogota|pyladies-duque-de-caxias-meetup", tolower(pyladies_groups$urlname)),]
+
   # obtain cumulative count of chapters over the years and save in JSON
   datecreated <- sort(as.Date(pyladies_groups$created))
   pyladies_groups$created <-  as.Date(pyladies_groups$created)
