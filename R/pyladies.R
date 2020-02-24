@@ -239,7 +239,7 @@ get_pyladies <- function() {
   pyladies_df <- data.frame(chapters = pyladies_chapters, countries = pyladies_countries,
                            city = pyladies_city, members = pyladies_members, past_events = pyladies_past_events,
                            upcoming_events = pyladies_upcoming_events, avgchapter = average_chapter_country,
-                           avgevent = average_event_chapter, avgmember = average_member_chapter)
+                           avgevent = average_event_chapter, avgmember = average_member_chapter, last_update = date())
   
   # specify columns to retain
   col_to_keep <- c("name", "city", "country",  "region", "members", "fullurl", "created", "status", "last_event", "past_events", "upcoming_events")
