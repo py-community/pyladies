@@ -429,23 +429,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Pyladies Asaba (Delta State)",
-        "url": "<a href='https://www.meetup.com/Pyladies-Asaba-Delta-State/'>Pyladies Asaba (Delta State)</a>",
-        "created": "2020-02-19",
-        "members": "22",
-        "past_events": "0",
-        "upcoming_events": "0",
-        "last_event": "NA",
-        "days_since_last_event": "18354"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [6.74,6.2]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "PyLadies Princeton",
         "url": "<a href='https://www.meetup.com/PyLadies-Princeton/'>PyLadies Princeton</a>",
         "created": "2019-11-30",
@@ -458,6 +441,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [-74.67,40.37]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pyladies Asaba (Delta State)",
+        "url": "<a href='https://www.meetup.com/Pyladies-Asaba-Delta-State/'>Pyladies Asaba (Delta State)</a>",
+        "created": "2020-02-19",
+        "members": "22",
+        "past_events": "0",
+        "upcoming_events": "0",
+        "last_event": "NA",
+        "days_since_last_event": "18354"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.74,6.2]
       }
     },
     {
@@ -1160,23 +1160,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "PyLadies Istanbul",
-        "url": "<a href='https://www.meetup.com/PyLadies-Istanbul/'>PyLadies Istanbul</a>",
-        "created": "2014-10-26",
-        "members": "53",
-        "past_events": "2",
-        "upcoming_events": "0",
-        "last_event": "2015-01-17",
-        "days_since_last_event": "1902"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [28.96,41.01]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "PyLadies Bangalore Chapter",
         "url": "<a href='https://www.meetup.com/PyLadies-Bangalore-Chapter/'>PyLadies Bangalore Chapter</a>",
         "created": "2018-10-30",
@@ -1189,6 +1172,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [77.56,12.97]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PyLadies Istanbul",
+        "url": "<a href='https://www.meetup.com/PyLadies-Istanbul/'>PyLadies Istanbul</a>",
+        "created": "2014-10-26",
+        "members": "53",
+        "past_events": "2",
+        "upcoming_events": "0",
+        "last_event": "2015-01-17",
+        "days_since_last_event": "1902"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [28.96,41.01]
       }
     },
     {
