@@ -1,6 +1,6 @@
 "","name","city","country","region","members","fullurl","created","status","last_event","past_events","upcoming_events"
-"1","PyLadies La Paz","La Paz","Bolivia","Latin America",334,"https://www.meetup.com/La-Paz-PyLadies-Meetup/",2018-11-06,"Active",2020-02-04,10,0
-"2","PyLadies Madrid","Madrid","Spain","Europe",1998,"https://www.meetup.com/PyLadiesMadrid/",2017-03-29,"Active",2020-02-16,37,0
+"1","PyLadies La Paz","La Paz","Bolivia","Latin America",336,"https://www.meetup.com/La-Paz-PyLadies-Meetup/",2018-11-06,"Active",2020-02-04,10,1
+"2","PyLadies Madrid","Madrid","Spain","Europe",2000,"https://www.meetup.com/PyLadiesMadrid/",2017-03-29,"Active",2020-02-16,37,0
 "3","PyLadies Melbourne","Melbourne","Australia","Australia",596,"https://www.meetup.com/PyLadies-Melbourne/",2016-03-06,"Active",2020-04-20,49,5
 "4","Seattle PyLadies","Seattle","USA","US/Canada",2121,"https://www.meetup.com/Seattle-PyLadies/",2012-10-16,"Active",2020-04-24,294,1
 "5","PyLadies Hamburg","Hamburg","Germany","Europe",472,"https://www.meetup.com/PyLadies-Hamburg/",2018-05-31,"Active",2020-04-21,25,0
@@ -11,35 +11,35 @@
 "10","PyLadies Boston","Boston","USA","US/Canada",1169,"https://www.meetup.com/PyLadies-Boston/",2013-05-08,"Active",2018-09-27,199,1
 "11","Santa Cruz PyLadies","Santa Cruz","USA","US/Canada",147,"https://www.meetup.com/PyLadiesSC/",2018-04-02,"Active",2020-03-24,43,0
 "12","Pyladies Goa","Panaji","India","Asia",26,"https://www.meetup.com/Pyladies-Goa/",2019-08-22,"Active",2020-02-01,1,0
-"13","NYC PyLadies","New York","USA","US/Canada",4153,"https://www.meetup.com/NYC-PyLadies/",2012-08-18,"Active",2020-03-07,163,1
+"13","NYC PyLadies","New York","USA","US/Canada",4154,"https://www.meetup.com/NYC-PyLadies/",2012-08-18,"Active",2020-03-07,163,1
 "14","PyLadies ATX","Austin","USA","US/Canada",1368,"https://www.meetup.com/PyLadies-ATX/",2012-11-21,"Active",2020-04-21,215,8
 "15","PyLadies Edinburgh","Edinburgh","United Kingdom","Europe",340,"https://www.meetup.com/PyLadiesEdinburgh/",2014-07-05,"Inactive",2019-06-11,36,0
 "16","TampaBay PyLadies","Tampa","USA","US/Canada",61,"https://www.meetup.com/TampaBay-PyLadies/",2019-09-03,"Active",2020-02-13,4,0
 "17","DC PyLadies","Washington","USA","US/Canada",1261,"https://www.meetup.com/dc-pyladies/",2011-08-04,"Active",2020-04-21,83,0
-"18","PyLadies Rio de Janeiro","Rio de Janeiro","Brazil","Latin America",1060,"https://www.meetup.com/PyLadies-Rio-de-Janeiro/",2016-07-01,"Active",2020-04-18,18,0
+"18","PyLadies Rio de Janeiro","Rio de Janeiro","Brazil","Latin America",1061,"https://www.meetup.com/PyLadies-Rio-de-Janeiro/",2016-07-01,"Active",2020-04-18,18,0
 "19","PyLadies - Twin Cities","Minneapolis","USA","US/Canada",1120,"https://www.meetup.com/PyLadiesTC/",2014-05-28,"Inactive",2019-05-18,234,0
 "20","PyLadies BCN","Barcelona","Spain","Europe",667,"https://www.meetup.com/PyLadies-BCN/",2014-02-21,"Active",2020-02-24,54,0
 "21","Advanced Python (PyLadies)","Ostrava","Czech Republic","Europe",57,"https://www.meetup.com/Advanced-Python-PyLadies/",2018-03-18,"Inactive",2018-06-29,9,0
 "22","Seoul PyLadies Meetup","Seoul","Korea (South)","Asia",43,"https://www.meetup.com/Seoul-PyLadies-Meetup/",2014-05-29,"Unbegun",NA,0,0
 "23","Cleveland PyLadies","Cleveland","USA","US/Canada",210,"https://www.meetup.com/CLE-PyLadies/",2018-05-30,"Active",2020-04-18,22,0
-"24","PyLadies Amsterdam","Amsterdam","Netherlands","Europe",697,"https://www.meetup.com/PyLadiesAMS/",2013-07-10,"Active",2020-03-31,23,5
+"24","PyLadies Amsterdam","Amsterdam","Netherlands","Europe",698,"https://www.meetup.com/PyLadiesAMS/",2013-07-10,"Active",2020-04-29,24,4
 "25","PyLadies Lima","Lima","Peru","Latin America",415,"https://www.meetup.com/PyLadies-Lima/",2019-10-20,"Active",2020-01-30,3,0
 "26","PyLadies Mumbai","Mumbai","India","Asia",88,"https://www.meetup.com/PyLadiesMumbai/",2019-11-02,"Active",2020-01-04,1,0
 "27","PyLadies Princeton","Princeton","USA","US/Canada",42,"https://www.meetup.com/PyLadies-Princeton/",2019-11-30,"Active",2020-04-25,6,3
 "28","Pyladies Asaba (Delta State)","Asaba","Nigeria","Africa",24,"https://www.meetup.com/Pyladies-Asaba-Delta-State/",2020-02-19,"Unbegun",NA,0,0
 "29","PyLadies Indonesia","Jakarta","Indonesia","Asia",66,"https://www.meetup.com/PyLadies-Indonesia/",2019-01-01,"Unbegun",NA,0,0
-"30","PyLadies of Los Angeles","Los Angeles","USA","US/Canada",1368,"https://www.meetup.com/Pyladies-LA/",2013-06-17,"Active",2020-04-18,239,0
+"30","PyLadies of Los Angeles","Los Angeles","USA","US/Canada",1368,"https://www.meetup.com/Pyladies-LA/",2013-06-17,"Active",2020-04-18,239,1
 "31","PyLadies SWFL","Naples","USA","US/Canada",14,"https://www.meetup.com/PyLadies-SWFL/",2019-07-19,"Active",2019-12-18,1,0
 "32","Brisbane PyLadies","Brisbane","Australia","Australia",302,"https://www.meetup.com/BrisbanePyLadies/",2019-07-30,"Active",2020-03-05,13,0
 "33","PyLadies Milano","Milano","Italy","Europe",232,"https://www.meetup.com/meetup-group-AmxqeOPN/",2019-04-23,"Active",2020-03-26,3,0
-"34","PyLadies London","London","United Kingdom","Europe",2312,"https://www.meetup.com/PyLadiesLondon/",2014-03-13,"Active",2020-04-01,71,1
-"35","PyLadies of San Francisco","San Francisco","USA","US/Canada",6228,"https://www.meetup.com/PyLadiesSF/",2012-04-04,"Active",2020-04-29,560,0
+"34","PyLadies London","London","United Kingdom","Europe",2322,"https://www.meetup.com/PyLadiesLondon/",2014-03-13,"Active",2020-04-01,71,1
+"35","PyLadies of San Francisco","San Francisco","USA","US/Canada",6227,"https://www.meetup.com/PyLadiesSF/",2012-04-04,"Active",2020-04-29,560,1
 "36","PyLadies Nigeria","Lagos","Nigeria","Africa",1881,"https://www.meetup.com/pyladiesnigeria/",2016-03-18,"Active",2019-08-31,17,2
 "37","Helsinki PyLadies","Helsinki","Finland","Europe",317,"https://www.meetup.com/Helsinki-PyLadies/",2013-06-22,"Inactive",2019-06-06,43,0
 "38","PyLadies Chennai","Chennai","India","Asia",180,"https://www.meetup.com/pyladieschennai/",2018-12-29,"Inactive",2019-10-12,5,0
 "39","PyLadies Montréal","Montréal","Canada","US/Canada",461,"https://www.meetup.com/PyLadiesMTL/",2013-04-21,"Inactive",2019-04-30,37,0
 "40","PyLadies Toronto","Toronto","Canada","US/Canada",1287,"https://www.meetup.com/PyLadies-Toronto/",2013-01-04,"Active",2020-02-05,52,0
-"41","PyLadies Berlin","Berlin","Germany","Europe",1845,"https://www.meetup.com/PyLadies-Berlin/",2013-05-24,"Active",2020-04-15,96,1
+"41","PyLadies Berlin","Berlin","Germany","Europe",1849,"https://www.meetup.com/PyLadies-Berlin/",2013-05-24,"Active",2020-04-15,96,1
 "42","PyLadies Karlsruhe","Karlsruhe","Germany","Europe",151,"https://www.meetup.com/PyLadies-Karlsruhe/",2019-11-20,"Active",2020-03-07,3,0
 "43","PyLadiesMS","Münster","Germany","Europe",63,"https://www.meetup.com/PyLadiesMS/",2017-11-05,"Unbegun",NA,0,0
 "44","PyLadies Central PA","Harrisburg","USA","US/Canada",59,"https://www.meetup.com/PyLadies-Central-PA/",2018-11-27,"Active",2020-01-17,12,0
@@ -51,7 +51,7 @@
 "50","PyLadies Taiwan","Taipei","Taiwan","Asia",1592,"https://www.meetup.com/PyLadiesTW/",2014-02-28,"Inactive",2019-10-19,80,0
 "51","Chicago PyLadies","Chicago","USA","US/Canada",1278,"https://www.meetup.com/Chicago-PyLadies/",2015-01-10,"Active",2020-04-11,79,0
 "52","PyLadies Munich","München","Germany","Europe",613,"https://www.meetup.com/PyLadiesMunich/",2014-11-20,"Active",2020-04-21,23,0
-"53","PyLadies Colombia: Bogotá","Bogotá","Colombia","Latin America",1033,"https://www.meetup.com/Pyladies-Co-Bogota/",2018-06-05,"Active",2020-03-07,14,0
+"53","PyLadies Colombia: Bogotá","Bogotá","Colombia","Latin America",1035,"https://www.meetup.com/Pyladies-Co-Bogota/",2018-06-05,"Active",2020-03-07,14,0
 "54","PyLadies - Idaho Falls","Idaho Falls","USA","US/Canada",13,"https://www.meetup.com/PyLadiesIF/",2018-02-03,"Inactive",2018-06-02,10,0
 "55","Salt Lake PyLadies","Salt Lake City","USA","US/Canada",457,"https://www.meetup.com/Salt-Lake-Pyladies/",2013-10-16,"Active",2020-02-27,105,0
 "56","Pyladies Perth","Perth","Australia","Australia",115,"https://www.meetup.com/Pyladies-Perth/",2019-08-16,"Active",2020-02-08,2,0
@@ -75,4 +75,4 @@
 "74","PyLadies Curitiba","Curitiba","Brazil","Latin America",50,"https://www.meetup.com/PyLadies-Curitiba/",2015-09-26,"Inactive",2015-09-29,1,0
 "75","PyLadies Harare","Harare","Zimbabwe","Africa",466,"https://www.meetup.com/PyLadies-Harare/",2016-11-28,"Active",2020-04-18,34,0
 "76","PyLadies BH Meetup","Belo Horizonte","Brazil","Latin America",436,"https://www.meetup.com/PyLadies-BH-Meetup/",2015-09-02,"Inactive",2019-06-01,5,0
-"77","PyLadies Medellín","Medellín","Colombia","Latin America",1028,"https://www.meetup.com/Python-Ladies-Medellin/",2015-12-07,"Active",2020-04-25,18,0
+"77","PyLadies Medellín","Medellín","Colombia","Latin America",1029,"https://www.meetup.com/Python-Ladies-Medellin/",2015-12-07,"Active",2020-04-25,18,0
