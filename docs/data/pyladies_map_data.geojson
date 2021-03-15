@@ -4,23 +4,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "PyLadies La Paz",
-        "url": "<a href='https://www.meetup.com/La-Paz-PyLadies-Meetup/'>PyLadies La Paz</a>",
-        "created": "2018-11-06",
-        "members": "417",
-        "past_events": "12",
-        "upcoming_events": "0",
-        "last_event": "2020-06-20",
-        "days_since_last_event": "267"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-68.15,-16.5]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "PyLadies Melbourne",
         "url": "<a href='https://www.meetup.com/PyLadies-Melbourne/'>PyLadies Melbourne</a>",
         "created": "2016-03-06",
@@ -28,28 +11,11 @@
         "past_events": "55",
         "upcoming_events": "0",
         "last_event": "2020-09-21",
-        "days_since_last_event": "174"
+        "days_since_last_event": "175"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [144.96,-37.81]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "PyLadies Madrid",
-        "url": "<a href='https://www.meetup.com/PyLadiesMadrid/'>PyLadies Madrid</a>",
-        "created": "2017-03-29",
-        "members": "2092",
-        "past_events": "40",
-        "upcoming_events": "0",
-        "last_event": "2020-11-28",
-        "days_since_last_event": "106"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-3.71,40.42]
       }
     },
     {
@@ -62,7 +28,7 @@
         "past_events": "310",
         "upcoming_events": "1",
         "last_event": "2021-02-23",
-        "days_since_last_event": "19"
+        "days_since_last_event": "20"
       },
       "geometry": {
         "type": "Point",
@@ -79,7 +45,7 @@
         "past_events": "34",
         "upcoming_events": "0",
         "last_event": "2021-03-08",
-        "days_since_last_event": "6"
+        "days_since_last_event": "7"
       },
       "geometry": {
         "type": "Point",
@@ -96,7 +62,7 @@
         "past_events": "47",
         "upcoming_events": "0",
         "last_event": "2021-03-10",
-        "days_since_last_event": "4"
+        "days_since_last_event": "5"
       },
       "geometry": {
         "type": "Point",
@@ -113,7 +79,7 @@
         "past_events": "10",
         "upcoming_events": "1",
         "last_event": "2021-02-26",
-        "days_since_last_event": "16"
+        "days_since_last_event": "17"
       },
       "geometry": {
         "type": "Point",
@@ -130,7 +96,7 @@
         "past_events": "56",
         "upcoming_events": "0",
         "last_event": "2021-03-09",
-        "days_since_last_event": "5"
+        "days_since_last_event": "6"
       },
       "geometry": {
         "type": "Point",
@@ -147,7 +113,7 @@
         "past_events": "43",
         "upcoming_events": "0",
         "last_event": "2020-03-24",
-        "days_since_last_event": "355"
+        "days_since_last_event": "356"
       },
       "geometry": {
         "type": "Point",
@@ -160,11 +126,11 @@
         "name": "PyLadies Boston",
         "url": "<a href='https://www.meetup.com/PyLadies-Boston/'>PyLadies Boston</a>",
         "created": "2013-05-08",
-        "members": "1363",
+        "members": "1362",
         "past_events": "199",
         "upcoming_events": "1",
         "last_event": "2018-09-27",
-        "days_since_last_event": "899"
+        "days_since_last_event": "900"
       },
       "geometry": {
         "type": "Point",
@@ -179,9 +145,9 @@
         "created": "2012-09-07",
         "members": "1153",
         "past_events": "616",
-        "upcoming_events": "0",
+        "upcoming_events": "1",
         "last_event": "2021-02-06",
-        "days_since_last_event": "36"
+        "days_since_last_event": "37"
       },
       "geometry": {
         "type": "Point",
@@ -194,11 +160,11 @@
         "name": "NYC PyLadies",
         "url": "<a href='https://www.meetup.com/NYC-PyLadies/'>NYC PyLadies</a>",
         "created": "2012-08-18",
-        "members": "4200",
+        "members": "4199",
         "past_events": "180",
         "upcoming_events": "0",
         "last_event": "2021-03-13",
-        "days_since_last_event": "1"
+        "days_since_last_event": "2"
       },
       "geometry": {
         "type": "Point",
@@ -215,28 +181,11 @@
         "past_events": "1",
         "upcoming_events": "0",
         "last_event": "2020-02-01",
-        "days_since_last_event": "407"
+        "days_since_last_event": "408"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [73.81,15.5]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "PyLadies ATX",
-        "url": "<a href='https://www.meetup.com/PyLadies-ATX/'>PyLadies ATX</a>",
-        "created": "2012-11-21",
-        "members": "1513",
-        "past_events": "224",
-        "upcoming_events": "1",
-        "last_event": "2021-01-19",
-        "days_since_last_event": "54"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-97.74,30.27]
       }
     },
     {
@@ -249,7 +198,7 @@
         "past_events": "5",
         "upcoming_events": "0",
         "last_event": "2020-10-28",
-        "days_since_last_event": "137"
+        "days_since_last_event": "138"
       },
       "geometry": {
         "type": "Point",
@@ -262,49 +211,15 @@
         "name": "DC PyLadies",
         "url": "<a href='https://www.meetup.com/dc-pyladies/'>DC PyLadies</a>",
         "created": "2011-08-04",
-        "members": "1314",
+        "members": "1313",
         "past_events": "86",
         "upcoming_events": "1",
         "last_event": "2020-10-13",
-        "days_since_last_event": "152"
+        "days_since_last_event": "153"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [-77.02,38.95]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "PyLadies Rio de Janeiro",
-        "url": "<a href='https://www.meetup.com/PyLadies-Rio-de-Janeiro/'>PyLadies Rio de Janeiro</a>",
-        "created": "2016-07-01",
-        "members": "1106",
-        "past_events": "18",
-        "upcoming_events": "0",
-        "last_event": "2020-04-18",
-        "days_since_last_event": "330"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-43.2,-22.91]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "PyLadies - Twin Cities",
-        "url": "<a href='https://www.meetup.com/PyLadiesTC/'>PyLadies - Twin Cities</a>",
-        "created": "2014-05-28",
-        "members": "1112",
-        "past_events": "234",
-        "upcoming_events": "0",
-        "last_event": "2019-05-18",
-        "days_since_last_event": "666"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-93.26,44.98]
       }
     },
     {
@@ -317,7 +232,7 @@
         "past_events": "0",
         "upcoming_events": "0",
         "last_event": "NA",
-        "days_since_last_event": "18700"
+        "days_since_last_event": "18701"
       },
       "geometry": {
         "type": "Point",
@@ -330,11 +245,11 @@
         "name": "PyLadies BCN",
         "url": "<a href='https://www.meetup.com/PyLadies-BCN/'>PyLadies BCN</a>",
         "created": "2014-02-21",
-        "members": "693",
+        "members": "694",
         "past_events": "55",
         "upcoming_events": "1",
         "last_event": "2021-01-28",
-        "days_since_last_event": "45"
+        "days_since_last_event": "46"
       },
       "geometry": {
         "type": "Point",
@@ -351,7 +266,7 @@
         "past_events": "9",
         "upcoming_events": "0",
         "last_event": "2018-06-29",
-        "days_since_last_event": "989"
+        "days_since_last_event": "990"
       },
       "geometry": {
         "type": "Point",
@@ -368,7 +283,7 @@
         "past_events": "24",
         "upcoming_events": "0",
         "last_event": "2020-08-15",
-        "days_since_last_event": "211"
+        "days_since_last_event": "212"
       },
       "geometry": {
         "type": "Point",
@@ -385,7 +300,7 @@
         "past_events": "1",
         "upcoming_events": "0",
         "last_event": "2020-01-04",
-        "days_since_last_event": "435"
+        "days_since_last_event": "436"
       },
       "geometry": {
         "type": "Point",
@@ -402,7 +317,7 @@
         "past_events": "9",
         "upcoming_events": "0",
         "last_event": "2020-06-27",
-        "days_since_last_event": "260"
+        "days_since_last_event": "261"
       },
       "geometry": {
         "type": "Point",
@@ -415,32 +330,15 @@
         "name": "PyLadies Amsterdam",
         "url": "<a href='https://www.meetup.com/PyLadiesAMS/'>PyLadies Amsterdam</a>",
         "created": "2013-07-10",
-        "members": "1017",
+        "members": "1018",
         "past_events": "36",
         "upcoming_events": "1",
         "last_event": "2021-02-24",
-        "days_since_last_event": "18"
+        "days_since_last_event": "19"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [4.89,52.37]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "PyLadies Lima",
-        "url": "<a href='https://www.meetup.com/PyLadies-Lima/'>PyLadies Lima</a>",
-        "created": "2019-10-20",
-        "members": "494",
-        "past_events": "6",
-        "upcoming_events": "0",
-        "last_event": "2020-11-29",
-        "days_since_last_event": "105"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-77.05,-12.07]
       }
     },
     {
@@ -453,28 +351,11 @@
         "past_events": "0",
         "upcoming_events": "0",
         "last_event": "NA",
-        "days_since_last_event": "18700"
+        "days_since_last_event": "18701"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [6.74,6.2]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "PyLadies of Los Angeles",
-        "url": "<a href='https://www.meetup.com/Pyladies-LA/'>PyLadies of Los Angeles</a>",
-        "created": "2013-06-17",
-        "members": "1470",
-        "past_events": "254",
-        "upcoming_events": "0",
-        "last_event": "2021-01-22",
-        "days_since_last_event": "51"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-118.25,34.04]
       }
     },
     {
@@ -487,7 +368,7 @@
         "past_events": "15",
         "upcoming_events": "0",
         "last_event": "2021-03-04",
-        "days_since_last_event": "10"
+        "days_since_last_event": "11"
       },
       "geometry": {
         "type": "Point",
@@ -500,11 +381,11 @@
         "name": "PyLadies London",
         "url": "<a href='https://www.meetup.com/PyLadiesLondon/'>PyLadies London</a>",
         "created": "2014-03-13",
-        "members": "2497",
+        "members": "2498",
         "past_events": "78",
         "upcoming_events": "0",
         "last_event": "2021-03-10",
-        "days_since_last_event": "4"
+        "days_since_last_event": "5"
       },
       "geometry": {
         "type": "Point",
@@ -521,7 +402,7 @@
         "past_events": "581",
         "upcoming_events": "3",
         "last_event": "2021-03-10",
-        "days_since_last_event": "4"
+        "days_since_last_event": "5"
       },
       "geometry": {
         "type": "Point",
@@ -534,32 +415,15 @@
         "name": "PyLadies Nigeria",
         "url": "<a href='https://www.meetup.com/pyladiesnigeria/'>PyLadies Nigeria</a>",
         "created": "2016-03-18",
-        "members": "1915",
+        "members": "1916",
         "past_events": "17",
         "upcoming_events": "2",
         "last_event": "2019-08-31",
-        "days_since_last_event": "561"
+        "days_since_last_event": "562"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [3.47,6.45]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "PyLadies Milano",
-        "url": "<a href='https://www.meetup.com/meetup-group-AmxqeOPN/'>PyLadies Milano</a>",
-        "created": "2019-04-23",
-        "members": "234",
-        "past_events": "3",
-        "upcoming_events": "0",
-        "last_event": "2020-03-26",
-        "days_since_last_event": "353"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [9.19,45.46]
       }
     },
     {
@@ -572,7 +436,7 @@
         "past_events": "37",
         "upcoming_events": "0",
         "last_event": "2019-04-30",
-        "days_since_last_event": "684"
+        "days_since_last_event": "685"
       },
       "geometry": {
         "type": "Point",
@@ -589,7 +453,7 @@
         "past_events": "14",
         "upcoming_events": "0",
         "last_event": "2021-03-08",
-        "days_since_last_event": "6"
+        "days_since_last_event": "7"
       },
       "geometry": {
         "type": "Point",
@@ -606,45 +470,11 @@
         "past_events": "45",
         "upcoming_events": "0",
         "last_event": "2020-12-10",
-        "days_since_last_event": "94"
+        "days_since_last_event": "95"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [24.94,60.17]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "PyLadies Toronto",
-        "url": "<a href='https://www.meetup.com/PyLadies-Toronto/'>PyLadies Toronto</a>",
-        "created": "2013-01-04",
-        "members": "1335",
-        "past_events": "53",
-        "upcoming_events": "1",
-        "last_event": "2021-02-23",
-        "days_since_last_event": "19"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-79.44,43.65]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "PyLadies SWFL",
-        "url": "<a href='https://www.meetup.com/PyLadies-SWFL/'>PyLadies SWFL</a>",
-        "created": "2019-07-19",
-        "members": "84",
-        "past_events": "8",
-        "upcoming_events": "1",
-        "last_event": "2021-02-26",
-        "days_since_last_event": "16"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-81.8,26.14]
       }
     },
     {
@@ -655,9 +485,9 @@
         "created": "2013-05-24",
         "members": "2027",
         "past_events": "102",
-        "upcoming_events": "0",
+        "upcoming_events": "1",
         "last_event": "2021-03-04",
-        "days_since_last_event": "10"
+        "days_since_last_event": "11"
       },
       "geometry": {
         "type": "Point",
@@ -674,7 +504,7 @@
         "past_events": "4",
         "upcoming_events": "0",
         "last_event": "2020-12-18",
-        "days_since_last_event": "86"
+        "days_since_last_event": "87"
       },
       "geometry": {
         "type": "Point",
@@ -691,7 +521,7 @@
         "past_events": "0",
         "upcoming_events": "0",
         "last_event": "NA",
-        "days_since_last_event": "18700"
+        "days_since_last_event": "18701"
       },
       "geometry": {
         "type": "Point",
@@ -708,7 +538,7 @@
         "past_events": "12",
         "upcoming_events": "0",
         "last_event": "2020-01-17",
-        "days_since_last_event": "422"
+        "days_since_last_event": "423"
       },
       "geometry": {
         "type": "Point",
@@ -725,7 +555,7 @@
         "past_events": "20",
         "upcoming_events": "0",
         "last_event": "2016-04-15",
-        "days_since_last_event": "1794"
+        "days_since_last_event": "1795"
       },
       "geometry": {
         "type": "Point",
@@ -742,7 +572,7 @@
         "past_events": "4",
         "upcoming_events": "0",
         "last_event": "2019-07-11",
-        "days_since_last_event": "612"
+        "days_since_last_event": "613"
       },
       "geometry": {
         "type": "Point",
@@ -759,7 +589,7 @@
         "past_events": "54",
         "upcoming_events": "0",
         "last_event": "2020-03-03",
-        "days_since_last_event": "376"
+        "days_since_last_event": "377"
       },
       "geometry": {
         "type": "Point",
@@ -769,48 +599,14 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "PyLadies San Diego",
-        "url": "<a href='https://www.meetup.com/sd-pyladies/'>PyLadies San Diego</a>",
-        "created": "2012-09-24",
-        "members": "1006",
-        "past_events": "551",
-        "upcoming_events": "0",
-        "last_event": "2021-03-13",
-        "days_since_last_event": "1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.2,32.76]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "PyLadies Taiwan",
-        "url": "<a href='https://www.meetup.com/PyLadiesTW/'>PyLadies Taiwan</a>",
-        "created": "2014-02-28",
-        "members": "1610",
-        "past_events": "86",
-        "upcoming_events": "0",
-        "last_event": "2021-01-30",
-        "days_since_last_event": "43"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [121.45,25.02]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "PyLadies Dublin",
         "url": "<a href='https://www.meetup.com/PyLadiesDublin/'>PyLadies Dublin</a>",
         "created": "2013-10-25",
-        "members": "1158",
+        "members": "1157",
         "past_events": "90",
         "upcoming_events": "2",
         "last_event": "2021-02-16",
-        "days_since_last_event": "26"
+        "days_since_last_event": "27"
       },
       "geometry": {
         "type": "Point",
@@ -827,7 +623,7 @@
         "past_events": "65",
         "upcoming_events": "0",
         "last_event": "2021-03-08",
-        "days_since_last_event": "6"
+        "days_since_last_event": "7"
       },
       "geometry": {
         "type": "Point",
@@ -844,7 +640,7 @@
         "past_events": "38",
         "upcoming_events": "0",
         "last_event": "2020-02-01",
-        "days_since_last_event": "407"
+        "days_since_last_event": "408"
       },
       "geometry": {
         "type": "Point",
@@ -861,7 +657,7 @@
         "past_events": "80",
         "upcoming_events": "0",
         "last_event": "2021-03-09",
-        "days_since_last_event": "5"
+        "days_since_last_event": "6"
       },
       "geometry": {
         "type": "Point",
@@ -874,32 +670,15 @@
         "name": "PyLadies Munich",
         "url": "<a href='https://www.meetup.com/PyLadiesMunich/'>PyLadies Munich</a>",
         "created": "2014-11-20",
-        "members": "714",
+        "members": "715",
         "past_events": "25",
         "upcoming_events": "1",
         "last_event": "2020-08-27",
-        "days_since_last_event": "199"
+        "days_since_last_event": "200"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [11.58,48.14]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Pyladies Bogotá",
-        "url": "<a href='https://www.meetup.com/Pyladies-Bogota/'>Pyladies Bogotá</a>",
-        "created": "2016-10-30",
-        "members": "110",
-        "past_events": "0",
-        "upcoming_events": "0",
-        "last_event": "NA",
-        "days_since_last_event": "18700"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.09,4.63]
       }
     },
     {
@@ -912,7 +691,24 @@
         "past_events": "16",
         "upcoming_events": "0",
         "last_event": "2020-07-18",
-        "days_since_last_event": "239"
+        "days_since_last_event": "240"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.09,4.63]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pyladies Bogotá",
+        "url": "<a href='https://www.meetup.com/Pyladies-Bogota/'>Pyladies Bogotá</a>",
+        "created": "2016-10-30",
+        "members": "110",
+        "past_events": "0",
+        "upcoming_events": "0",
+        "last_event": "NA",
+        "days_since_last_event": "18701"
       },
       "geometry": {
         "type": "Point",
@@ -929,7 +725,7 @@
         "past_events": "106",
         "upcoming_events": "0",
         "last_event": "2020-11-26",
-        "days_since_last_event": "108"
+        "days_since_last_event": "109"
       },
       "geometry": {
         "type": "Point",
@@ -946,7 +742,7 @@
         "past_events": "2",
         "upcoming_events": "0",
         "last_event": "2020-02-08",
-        "days_since_last_event": "400"
+        "days_since_last_event": "401"
       },
       "geometry": {
         "type": "Point",
@@ -963,7 +759,7 @@
         "past_events": "34",
         "upcoming_events": "0",
         "last_event": "2019-10-18",
-        "days_since_last_event": "513"
+        "days_since_last_event": "514"
       },
       "geometry": {
         "type": "Point",
@@ -980,7 +776,7 @@
         "past_events": "32",
         "upcoming_events": "0",
         "last_event": "2021-02-20",
-        "days_since_last_event": "22"
+        "days_since_last_event": "23"
       },
       "geometry": {
         "type": "Point",
@@ -997,7 +793,7 @@
         "past_events": "1",
         "upcoming_events": "0",
         "last_event": "2016-10-22",
-        "days_since_last_event": "1604"
+        "days_since_last_event": "1605"
       },
       "geometry": {
         "type": "Point",
@@ -1014,62 +810,11 @@
         "past_events": "17",
         "upcoming_events": "0",
         "last_event": "2017-11-19",
-        "days_since_last_event": "1211"
+        "days_since_last_event": "1212"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [73.84,18.53]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Pyladies India",
-        "url": "<a href='https://www.meetup.com/PyladiesIndia/'>Pyladies India</a>",
-        "created": "2014-06-04",
-        "members": "130",
-        "past_events": "1",
-        "upcoming_events": "0",
-        "last_event": "2014-06-14",
-        "days_since_last_event": "2465"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [77.21,28.67]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "PyLadies RDU",
-        "url": "<a href='https://www.meetup.com/pyladies-rdu/'>PyLadies RDU</a>",
-        "created": "2014-09-03",
-        "members": "452",
-        "past_events": "49",
-        "upcoming_events": "1",
-        "last_event": "2020-12-08",
-        "days_since_last_event": "96"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-78.64,35.77]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "México City Pyladies Meetup",
-        "url": "<a href='https://www.meetup.com/Mexico-City-Pyladies-Meetup/'>México City Pyladies Meetup</a>",
-        "created": "2016-03-17",
-        "members": "1157",
-        "past_events": "38",
-        "upcoming_events": "0",
-        "last_event": "2021-02-09",
-        "days_since_last_event": "33"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-99.14,19.43]
       }
     },
     {
@@ -1082,7 +827,7 @@
         "past_events": "2",
         "upcoming_events": "0",
         "last_event": "2015-01-17",
-        "days_since_last_event": "2248"
+        "days_since_last_event": "2249"
       },
       "geometry": {
         "type": "Point",
@@ -1099,7 +844,7 @@
         "past_events": "0",
         "upcoming_events": "0",
         "last_event": "NA",
-        "days_since_last_event": "18700"
+        "days_since_last_event": "18701"
       },
       "geometry": {
         "type": "Point",
@@ -1116,7 +861,7 @@
         "past_events": "16",
         "upcoming_events": "0",
         "last_event": "2020-12-19",
-        "days_since_last_event": "85"
+        "days_since_last_event": "86"
       },
       "geometry": {
         "type": "Point",
@@ -1133,7 +878,7 @@
         "past_events": "1",
         "upcoming_events": "0",
         "last_event": "2018-02-02",
-        "days_since_last_event": "1136"
+        "days_since_last_event": "1137"
       },
       "geometry": {
         "type": "Point",
@@ -1150,7 +895,7 @@
         "past_events": "2",
         "upcoming_events": "0",
         "last_event": "2016-01-30",
-        "days_since_last_event": "1870"
+        "days_since_last_event": "1871"
       },
       "geometry": {
         "type": "Point",
@@ -1167,7 +912,7 @@
         "past_events": "34",
         "upcoming_events": "3",
         "last_event": "2021-03-04",
-        "days_since_last_event": "10"
+        "days_since_last_event": "11"
       },
       "geometry": {
         "type": "Point",
@@ -1184,7 +929,7 @@
         "past_events": "8",
         "upcoming_events": "0",
         "last_event": "2020-12-09",
-        "days_since_last_event": "95"
+        "days_since_last_event": "96"
       },
       "geometry": {
         "type": "Point",
@@ -1201,7 +946,7 @@
         "past_events": "0",
         "upcoming_events": "0",
         "last_event": "NA",
-        "days_since_last_event": "18700"
+        "days_since_last_event": "18701"
       },
       "geometry": {
         "type": "Point",
@@ -1218,28 +963,11 @@
         "past_events": "66",
         "upcoming_events": "1",
         "last_event": "2021-03-10",
-        "days_since_last_event": "4"
+        "days_since_last_event": "5"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [18.07,59.33]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "PyLadies Curitiba",
-        "url": "<a href='https://www.meetup.com/PyLadies-Curitiba/'>PyLadies Curitiba</a>",
-        "created": "2015-09-26",
-        "members": "50",
-        "past_events": "1",
-        "upcoming_events": "0",
-        "last_event": "2015-09-29",
-        "days_since_last_event": "1993"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-49.29,-25.42]
       }
     },
     {
@@ -1252,28 +980,11 @@
         "past_events": "21",
         "upcoming_events": "0",
         "last_event": "2021-02-20",
-        "days_since_last_event": "22"
+        "days_since_last_event": "23"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [-75.59,6.25]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "PyLadies Harare",
-        "url": "<a href='https://www.meetup.com/PyLadies-Harare/'>PyLadies Harare</a>",
-        "created": "2016-11-28",
-        "members": "516",
-        "past_events": "44",
-        "upcoming_events": "0",
-        "last_event": "2021-02-20",
-        "days_since_last_event": "22"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [31.05,-17.82]
       }
     },
     {
@@ -1286,11 +997,28 @@
         "past_events": "6",
         "upcoming_events": "0",
         "last_event": "2020-11-28",
-        "days_since_last_event": "106"
+        "days_since_last_event": "107"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [32.58,0.32]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PyLadies Harare",
+        "url": "<a href='https://www.meetup.com/PyLadies-Harare/'>PyLadies Harare</a>",
+        "created": "2016-11-28",
+        "members": "516",
+        "past_events": "44",
+        "upcoming_events": "0",
+        "last_event": "2021-02-20",
+        "days_since_last_event": "23"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [31.05,-17.82]
       }
     },
     {
@@ -1303,7 +1031,7 @@
         "past_events": "8",
         "upcoming_events": "0",
         "last_event": "2020-09-29",
-        "days_since_last_event": "166"
+        "days_since_last_event": "167"
       },
       "geometry": {
         "type": "Point",
