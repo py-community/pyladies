@@ -263,7 +263,7 @@ get_pyladies_hosts <- function(){
   # order the records in descending order to see top hosts
   uniqhosts <- uniqhosts[order(-uniqhosts$hostcount), ]
   
-  write.csv(uniqhosts, "docs/data/pyladies_hosts.csv")   
+  readr::write_csv(uniqhosts, "docs/data/pyladies_hosts.csv")   
 }
 
 

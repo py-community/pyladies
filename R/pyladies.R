@@ -244,7 +244,7 @@ get_pyladies <- function() {
   # specify columns to retain
   col_to_keep <- c("name", "city", "country",  "region", "members", "fullurl", "created", "status", "last_event", "past_events", "upcoming_events")
   pyladies_groups2 <- pyladies_groups[col_to_keep]
-  write.csv(pyladies_groups2, "docs/data/pyladies.csv")   
+  readr::write_csv(pyladies_groups2, "docs/data/pyladies.csv")   
   
   #for leaflet map save to geoJSON
   col_to_keep <- c("name", "url", "created", "members","past_events","upcoming_events", "last_event", "days_since_last_event", "lat","lon")
